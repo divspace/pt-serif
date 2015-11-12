@@ -1,0 +1,29 @@
+@font-face {
+  font-family: "PT Serif";
+  font-weight: 400;
+  font-style: normal;
+  src: url("../fonts/pt-serif/pt-serif-regular.eot");
+  src: url("../fonts/pt-serif/pt-serif-regular.eot#iefix") format("embedded-opentype"), url("../fonts/pt-serif/pt-serif-regular.woff2") format("woff2"), url("../fonts/pt-serif/pt-serif-regular.woff") format("woff"), url("../fonts/pt-serif/pt-serif-regular.ttf") format("truetype"); }
+
+@font-face {
+  font-family: "PT Serif";
+  font-weight: 400;
+  font-style: italic;
+  src: url("../fonts/pt-serif/pt-serif-italic.eot");
+  src: url("../fonts/pt-serif/pt-serif-italic.eot#iefix") format("embedded-opentype"), url("../fonts/pt-serif/pt-serif-italic.woff2") format("woff2"), url("../fonts/pt-serif/pt-serif-italic.woff") format("woff"), url("../fonts/pt-serif/pt-serif-italic.ttf") format("truetype"); }
+
+@font-face {
+  font-family: "PT Serif";
+  font-weight: 700;
+  font-style: normal;
+  src: url("../fonts/pt-serif/pt-serif-bold.eot");
+  src: url("../fonts/pt-serif/pt-serif-bold.eot#iefix") format("embedded-opentype"), url("../fonts/pt-serif/pt-serif-bold.woff2") format("woff2"), url("../fonts/pt-serif/pt-serif-bold.woff") format("woff"), url("../fonts/pt-serif/pt-serif-bold.ttf") format("truetype"); }
+
+@font-face {
+  font-family: "PT Serif";
+  font-weight: 700;
+  font-style: italic;
+  src: url("../fonts/pt-serif/pt-serif-bold-italic.eot");
+  src: url("../fonts/pt-serif/pt-serif-bold-italic.eot#iefix") format("embedded-opentype"), url("../fonts/pt-serif/pt-serif-bold-italic.woff2") format("woff2"), url("../fonts/pt-serif/pt-serif-bold-italic.woff") format("woff"), url("../fonts/pt-serif/pt-serif-bold-italic.ttf") format("truetype"); }
+
+/*# sourceMappingURL=pt-serif.css.map */

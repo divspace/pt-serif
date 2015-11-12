@@ -1,0 +1,19 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# The above will handle all files not found below
+
+*.css text
+*.eot binary
+*.js text
+*.json text
+*.md text
+*.npmignore text
+*.scss text
+*.svg text
+*.ttf binary
+*.woff binary
+.editorconfig text
+.gitattributes text
+.gitconfig text
+.gitignore text

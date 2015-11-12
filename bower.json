@@ -1,0 +1,25 @@
+{
+  "name": "pt-serif",
+  "version": "1.0.0",
+  "license": "MIT",
+  "homepage": "https://github.com/divspace/pt-serif",
+  "description": "Bower package for the PT Serif web font",
+  "authors": [
+    "Kyle Anderson <kyle@divspace.com>"
+  ],
+  "keywords": [
+    "font",
+    "fonts",
+    "serif",
+    "paratype",
+    "pt-serif"
+  ],
+  "main": [
+    "scss/pt-serif.scss",
+    "css/pt-serif.css"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "pt-serif",
+  "version": "1.0.0",
+  "license": "MIT",
+  "description": "Bower package for the PT Serif web font",
+  "author": {
+    "name": "Kyle Anderson",
+    "email": "kyle@divspace.com",
+    "url": "https://github.com/divspace/pt-serif"
+  },
+  "private": true,
+  "dependencies": {
+    "laravel-elixir": "^3.4.2"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0"
+  }
+}
